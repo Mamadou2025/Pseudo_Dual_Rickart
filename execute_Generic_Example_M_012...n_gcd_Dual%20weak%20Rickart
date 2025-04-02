@@ -1,0 +1,4 @@
+url = https://raw.githubusercontent.com/Mamadou2025/Pseudo_Dual_Rickart/main/mon_Generic_Example_M_012...n_gcd_Dual%20weak%20Rickart.py
+response = requests.get(url)
+exec(response.text)
+
